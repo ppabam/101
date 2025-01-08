@@ -4,6 +4,6 @@
 <img src="https://github.com/user-attachments/assets/7e0b0f78-9356-483e-aa80-7f4885a3aab1" width=555 />
 
 
-# 건의사항
+### 행동강령
 
 12시에 점심시간 합시다!!
