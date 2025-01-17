@@ -3,4 +3,4 @@
 <img src="https://github.com/user-attachments/assets/7e0b0f78-9356-483e-aa80-7f4885a3aab1" width=555 />
 
 ### 행동강령
-- ??? - "I want to go Home."
+- 술 마신 다음 날은 해장을 하자.
