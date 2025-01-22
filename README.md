@@ -4,4 +4,8 @@
 <img src="https://github.com/user-attachments/assets/7e0b0f78-9356-483e-aa80-7f4885a3aab1" width=555 />
 
 ### 행동강령
-- 다 실행해보고 필기하기.
+
+- TOM님께서 말씀 중이실 때는 떠들지 맙시다.
+- 열심히 해야한다.
+- - 다 실행해보고 필기하기.
+
